@@ -9,6 +9,7 @@
 ## Data Wrangling
 
 > I attempted to comprehend my dataset by examining its structure, identifying the core feature(s) of interest, and aspects that can aid in the study.
+
 > The data contains some datatype misrepresentation, some missing values, some columns that are unnecessary, and some columns that must be formed from the given column, all of which are dealt with appropriately in the data cleaning section.
 
 
