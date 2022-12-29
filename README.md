@@ -1,10 +1,15 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Ford GoBike System Data Exploration
+> **BY ABDULRAHEEM BASHIR**
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+
+## Data Wrangling
+
+> I attempted to comprehend my dataset by examining its structure, identifying the core feature(s) of interest, and aspects that can aid in the study.
+> The data contains some datatype misrepresentation, some missing values, some columns that are unnecessary, and some columns that must be formed from the given column, all of which are dealt with appropriately in the data cleaning section.
 
 
 ## Summary of Findings
