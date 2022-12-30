@@ -30,7 +30,16 @@ Following are the findings from this section:
 - The majority of bike-sharing riders are in their twenties.
 - Bike sharing is limited to subscribers, which makes sense.
 
+### Multivariate Exploration
+Following are the findings from this section:
+- Bike sharing is connected with younger age across all genders, i.e. most of the members who share the bike for the entire journey are younger.
+- User type isn't related to neither the Age nor the Gender of the user.
+- The User Type has no effect on the link between Age and Duration.
+
 
 ## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+The following are the important findings of the above analysis as a result of the above data investigation and exploration:
+- Bike sharing is limited to only subscribers, which makes sense.
+- Majority of members are 20-40 years old, male, belong to the subscriber category, and did not share the bike for the entire journey.
+- Most journeys take less than 1000 seconds, and only a small number take longer than 2000 seconds.
+- Youthful members are more willing to share the bike.
